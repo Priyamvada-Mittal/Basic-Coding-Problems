@@ -11,3 +11,6 @@ You are given a space separated list of integers. If all the integers are positi
 Problem 3 - Solution to HackerRank Calendar Module (Python Basic)
 You are supposed to print the day(Monday, Tuesday, Wednesday, etc.) corresponding to the data entered by the user. I have used calendar library to make it short and simple.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Problem 4 - Solution to HackerRank Word Score (Python Basic)
+Consider that vowels in the alphabet are a, e, i, o, u and y. The score of a single word is 2 if the word contains an even number of vowels. Otherwise, the score of this word is 1. The score for the whole list of words is the sum of scores of all words in the list. I have embedded my logic in the function given on HackerRank. You can use the given function or embed your logic into one.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
