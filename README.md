@@ -8,3 +8,6 @@ Generally we follow the route using For Loop and iterating over the number(by co
 Problem 2 - Solution to HackerRank Any and All (Python Basic)
 You are given a space separated list of integers. If all the integers are positive, then you need to check if any integer is a palindromic integer. If yes you need to print True else False. I have tried using simple logic by reversing a number using slicing format. However, you can write your piece of code to reverse the number and execute the code. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Problem 3 - Solution to HackerRank Calendar Module (Python Basic)
+You are supposed to print the day(Monday, Tuesday, Wednesday, etc.) corresponding to the data entered by the user. I have used calendar library to make it short and simple.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
